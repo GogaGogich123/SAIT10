@@ -57,7 +57,7 @@ const LoginPage: React.FC = () => {
             className="mx-auto h-24 w-24 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center mb-8 shadow-2xl hover-glow"
           >
             <Shield className="h-14 w-14 text-white" />
-          </div>
+          </motion.div>
           <h2 className="text-5xl font-display font-black text-white mb-4 text-shadow text-glow">Вход в систему</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-400 to-orange-500 mx-auto rounded-full mb-4"></div>
           <p className="text-xl text-blue-200 font-semibold">Новороссийский казачий кадетский корпус</p>
